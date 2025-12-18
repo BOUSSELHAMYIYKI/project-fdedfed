@@ -5,6 +5,7 @@ public class tp2 {
         int A = 10;
         int B = 20;
         System.out.println("La somme = " + (A + B));
+        System.out.printf("hello worl");
     }
 
 }
